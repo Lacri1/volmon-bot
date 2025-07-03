@@ -1,0 +1,5 @@
+discord.py
+matplotlib
+pandas
+python-dotenv
+python-binance
