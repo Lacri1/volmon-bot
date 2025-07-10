@@ -1,6 +1,6 @@
 # volmon Bot
 
-volmon Bot is a Discord bot designed to provide real-time cryptocurrency price information and generate price charts using data from Binance. This project is an extension of the [volMon](https://github.com/Lacri1/VolMon) project, adding chat bot functionalities.
+volmon Bot is a Discord bot designed to provide real-time cryptocurrency price information and generate price charts using data from Binance. This project is an extension of the [volmon](https://github.com/Lacri1/VolMon) project, adding chat bot functionalities.
 
 ## Features
 
